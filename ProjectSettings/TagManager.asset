@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall_1
+  - wall_2
+  - wall_test
+  - firstDoor
+  - secondDoor
+  - firstPage
+  - text1
+  - firstKey
+  - UIKey
+  - firstQuiz
+  - firstPwd
+  - FirstQuiz_Drawer
+  - secondKey
+  - pwdOne
+  - arrow
+  - Button01
+  - Button02
+  - Button03
+  - Button04
+  - Button05
+  - Button06
+  - Button07
+  - Button08
+  - Button09
+  - Button00
+  - ButtonReset
+  - ButtonEnter
+  - firstWallText
+  - secondQuiz
+  - secondLight
+  - Light1
+  - page
+  - pageOut
+  - Quiz2
+  - secondPwd
+  - SecondQuiz_Drawer
+  - red
+  - blue
+  - green
+  - lightcube
+  - mainLight1
+  - mainLight2
+  - mainLight3
+  - onButton
+  - mainRed
+  - mainBlue
+  - mainGreen
+  - thirdPwd
+  - endQuad
+  - StartDrawer
+  - EndDoor
+  - Button11
+  - Button10
+  - Button12
+  - Button13
+  - Button14
+  - Button15
+  - Button16
+  - Button17
+  - Button18
+  - Button19
+  - Button20
+  - Button21
+  - Button22
+  - Button23
+  - Button24
+  - Button25
+  - Button26
+  - Button27
+  - Button28
+  - Button29
+  - firstRoomOut
+  - endRoomIn
+  - Screen
+  - EndBeam
+  - EndLight
+  - End
+  - scimg
+  - scimg2
+  - scimg3
+  - img1
+  - img2
+  - img3
+  - img4
+  - img5
+  - img6
+  - img7
+  - GameStart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
